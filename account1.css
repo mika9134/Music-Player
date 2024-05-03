@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-size: cover;
+}
+
+.main {
+    /* display: flex;
+    flex-wrap: wrap; */
+    align-items: center;
+    justify-content: center;  
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.button:hover{
+    font-size: 17px;
+}
+
+.button1:hover{
+    font-size: 17px;
+}
+
+
+
+.contain {
+    /* display: flex;
+    flex-wrap: wrap; */
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 50px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(216, 204, 204, 0.5);
+    border-radius: 20px;
+    margin-left: 50%;
+    margin-bottom: 40%;
+    margin-right: 50%;
+    margin-top: 40%;
+    transition: 2.2s;
+}
+
+
+.contain:hover {
+    transition: 1.6s;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(100, 97, 97, 0.4);
+    border-radius: 20px;
+    margin-left: 13%;
+    margin-right: 23%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    text-align: center;
+    font-style: italic;
+}
+
+
+button:hover{
+    font-size: 20px;
+    color: blue;
+} */

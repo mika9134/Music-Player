@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-size: cover;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;  
+}
+
+#img2 {
+    padding-left: 99px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+
+#img3 {
+    padding-left: 102px;
+    padding-top: 10px;
+    transition: 0.2s;
+}
+
+#img4 {
+    padding-left: 78px;
+    padding-top: 10px;
+    transition: 0.2s;
+}
+
+#img5 {
+    padding-left: 95px;
+    padding-top: 10px;
+    transition: 0.2s;
+}
+
+.button-2:hover {
+    margin-bottom: 50px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.button-3:hover {
+    margin-bottom: 50px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.button-4:hover {
+    margin-top: 40px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.button-5:hover {
+    margin-top: 45px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.contain {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-right: 70px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(216, 204, 204, 0.5);
+    border-radius: 20px;
+    margin-left: 15%;
+    margin-bottom: 8%;
+    margin-right: 6%;
+    margin-top: 10%;
+    transition: 2.2s;
+}
+
+.contain:hover {
+    transition: 2.5s;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(100, 97, 97, 0.4);
+    border-radius: 20px;
+    margin-left: 22%;
+    margin-right: 22%;
+}
